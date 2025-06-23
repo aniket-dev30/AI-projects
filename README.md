@@ -1,6 +1,7 @@
-🔧 Tech Stack Overview: AI-Powered Web App
+🚀 AI-Powered Full-Stack Web Application
 
-⚙️ Core Framework
+⚙️ Core Framework: Next.js (App Router)
+
 Next.js (App Router):
 
 Server-centric architecture for optimized performance.
@@ -9,7 +10,7 @@ Uses Server Components and Server Actions to offload logic to the backend.
 
 Improves speed, SEO, and scalability.
 
-💻 Frontend
+💻Frontend: TypeScript + React + ShadCN UI
 
 TypeScript + React:
 
@@ -25,7 +26,7 @@ Provides accessible, stylish, and reusable components.
 
 Enables rapid and consistent interface design.
 
-🤖 AI Backend
+🤖 Generative AI Backend: Google Genkit + RAG
 
 Google Genkit (Open-source):
 
@@ -37,14 +38,13 @@ Crawls and scrapes website content via sitemap (using JSDOM).
 
 Uses scraped content and a user query to generate contextual responses via Generative AI models.
 
-📄 Form Handling
+🧾 Form Management: React Hook Form + Zod
 
 React Hook Form: Efficient and lightweight form state management.
 
 Zod: Schema-based form validation to enforce input rules and catch errors early.
 
-🎨 Icons
-
+🎨 Icons: Lucide React
 Lucide React: Clean and modern SVG icon set designed for React apps.
 
 ✅ Key Features
