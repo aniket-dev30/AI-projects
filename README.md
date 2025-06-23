@@ -71,6 +71,17 @@ Index websites and query their content using Retrieval Augmented Generation.
 
 ![RAG Navigator - Brave 23-Jun-25 3_02_11 PM](https://github.com/user-attachments/assets/5560318b-407d-4e71-b759-0d45c337ed81)
 
+## 📸 Step 2: Sitemap Fetched (NASA Example)
+
+Sitemap URL used: `https://www.nasa.gov/sitemap.xm!
+![RAG Navigator - Brave 23-Jun-25 3_35_32 PM](https://github.com/user-attachments/assets/d4c6c044-a309-47c6-9309-5bc25f5dcd07)
+
+## 📸 Step 3: Ask a Question
+![RAG Navigator - Brave 23-Jun-25 3_09_49 PM](https://github.com/user-attachments/assets/275ff615-d147-4792-89f4-b9a0d3881bec)
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
