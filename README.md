@@ -59,6 +59,18 @@ Server-side scraping and intelligent response generation.
 
 Strong form validation and feedback.
 
+# 🧭 RAG Navigator
+
+Index websites and query their content using Retrieval Augmented Generation.
+
+---
+
+## 📸 Step 1: Indexing a Website
+
+
+
+![RAG Navigator - Brave 23-Jun-25 3_02_11 PM](https://github.com/user-attachments/assets/5560318b-407d-4e71-b759-0d45c337ed81)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
