@@ -1,67 +1,47 @@
-##🚀 **AI-Powered Full-Stack Web Application**
+## 🚀 AI-Powered Full-Stack Web Application
 
-⚙️ **Core Framework: Next.js (App Router)**
+### ⚙️ Core Framework: Next.js (App Router)
+- Server-centric architecture for optimized performance.
+- Uses **Server Components** and **Server Actions** to offload logic to the backend.
+- Improves speed, SEO, and scalability.
 
-Next.js (App Router):
+### 💻 Frontend: TypeScript + React + ShadCN UI
+- **TypeScript + React**:
+  - Strong typing for better developer experience and fewer runtime bugs.
+  - React enables component-based UI development.
+- **UI Library – ShadCN UI**:
+  - Built on Tailwind CSS.
+  - Accessible, stylish, and reusable components.
+  - Enables rapid and consistent interface design.
 
-Server-centric architecture for optimized performance.
+### 🤖 Generative AI Backend: Google Genkit + RAG
+- **Google Genkit (Open-source)**:
+  - Modular "flows" to manage AI workflows.
+  - Implements the **Retrieval-Augmented Generation (RAG)** pattern:
+    - Crawls and scrapes website content via sitemap using **JSDOM**.
+    - Uses scraped content and a user query to generate contextual responses via Generative AI.
 
-Uses Server Components and Server Actions to offload logic to the backend.
+### 🧾 Form Management: React Hook Form + Zod
+- **React Hook Form**: Efficient and lightweight form state management.
+- **Zod**: Schema-based form validation to enforce rules and catch errors early.
 
-Improves speed, SEO, and scalability.
+### 🎨 Icons: Lucide React
+- Clean and modern SVG icon set designed for React apps.
 
-💻**Frontend: TypeScript + React + ShadCN UI**
+---
 
-TypeScript + React:
+## ✅ Key Features
+- End-to-end AI integration using **Genkit + RAG**.
+- Fully typed, accessible, and responsive UI.
+- SEO-friendly with **Next.js** optimizations.
+- Server-side scraping and intelligent response generation.
+- Strong form validation and real-time feedback.
 
-Strong typing with TypeScript ensures better developer experience and fewer runtime bugs.
-
-React enables component-based UI development.
-
-UI Library – ShadCN UI:
-
-Built on Tailwind CSS.
-
-Provides accessible, stylish, and reusable components.
-
-Enables rapid and consistent interface design.
-
-🤖 **Generative AI Backend: Google Genkit + RAG**
-
-Google Genkit (Open-source):
-
-Manages AI workflows using modular "flows."
-
-Implements Retrieval-Augmented Generation (RAG) pattern:
-
-Crawls and scrapes website content via sitemap (using JSDOM).
-
-Uses scraped content and a user query to generate contextual responses via Generative AI models.
-
-🧾 **Form Management: React Hook Form + Zod**
-
-React Hook Form: Efficient and lightweight form state management.
-
-Zod: Schema-based form validation to enforce input rules and catch errors early.
-
-🎨 **Icons: Lucide React**
-Lucide React: Clean and modern SVG icon set designed for React apps.
-
-✅ **Key Features**
-
-End-to-end AI integration using Genkit + RAG.
-
-Fully typed, accessible, and responsive UI.
-
-SEO-friendly with Next.js optimizations.
-
-Server-side scraping and intelligent response generation.
-
-Strong form validation and feedback.
+---
 
 # 🧭 RAG Navigator
 
-Index websites and query their content using Retrieval Augmented Generation.
+**Index websites and query their content using Retrieval-Augmented Generation.**
 
 ---
 
